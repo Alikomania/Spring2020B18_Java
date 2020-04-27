@@ -5,7 +5,7 @@ import java.util.Arrays;
 /*
 Given:
 	String[] arr = {"1","2.5", "3", "3.5", "4.5"}
-	find thhe maximum and minimum numbers
+	find the maximum and minimum numbers
 		NOTE: Do not use sort method
  */
 public class WrapperClass_Practice {
