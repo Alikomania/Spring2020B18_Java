@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1cdc5c50-d28a-4e06-8469-92b7e7f386fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day29_Wrapper_ArrayList/ParseMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day29_Wrapper_ArrayList/ParseMethods.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,22 +43,9 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValueOfMethods">
+  <component name="RunManager" selected="Application.WrapperClass_Practice">
     <configuration name="Birthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day28_DateTime.Birthday" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day28_DateTime.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DateTime_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28_DateTime.DateTime_Formatting" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -110,6 +96,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WrapperClass_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArrayList.WrapperClass_Practice" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day29_Wrapper_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="repl" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day14_StringClass.repl" />
       <module name="Spring2020B18_Java" />
@@ -125,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WrapperClass_Practice" />
         <item itemvalue="Application.ValueOfMethods" />
         <item itemvalue="Application.ParseMethods" />
         <item itemvalue="Application.WrapperClass" />
         <item itemvalue="Application.Birthday" />
-        <item itemvalue="Application.DateTime_Formatting" />
       </list>
     </recent_temporary>
   </component>
@@ -227,25 +226,25 @@
     </state>
     <state x="499" y="114" key="FileChooserDialogImpl/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1587669726905" />
     <state x="499" y="114" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587533028097" />
-    <state width="1481" height="224" key="GridCell.Tab.0.bottom" timestamp="1588005969157">
+    <state width="1481" height="258" key="GridCell.Tab.0.bottom" timestamp="1588012114894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="224" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588005969157" />
+    <state width="1481" height="258" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588012114894" />
     <state width="1481" height="10" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587590095254" />
-    <state width="1481" height="224" key="GridCell.Tab.0.center" timestamp="1588005969157">
+    <state width="1481" height="258" key="GridCell.Tab.0.center" timestamp="1588012114894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="224" key="GridCell.Tab.0.center/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588005969157" />
+    <state width="1481" height="258" key="GridCell.Tab.0.center/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588012114894" />
     <state width="1481" height="10" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587590095252" />
-    <state width="1481" height="224" key="GridCell.Tab.0.left" timestamp="1588005969157">
+    <state width="1481" height="258" key="GridCell.Tab.0.left" timestamp="1588012114893">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="224" key="GridCell.Tab.0.left/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588005969157" />
+    <state width="1481" height="258" key="GridCell.Tab.0.left/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588012114893" />
     <state width="1481" height="10" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587590095252" />
-    <state width="1481" height="224" key="GridCell.Tab.0.right" timestamp="1588005969157">
+    <state width="1481" height="258" key="GridCell.Tab.0.right" timestamp="1588012114894">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="224" key="GridCell.Tab.0.right/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588005969157" />
+    <state width="1481" height="258" key="GridCell.Tab.0.right/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588012114894" />
     <state width="1481" height="10" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587590095252" />
     <state width="1481" height="246" key="GridCell.Tab.1.bottom" timestamp="1587011100577">
       <screen x="0" y="0" width="1536" height="824" />
@@ -279,10 +278,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="261" y="84" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587533664470" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1587751170103">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588011124270">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1587751170103" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588011124270" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587530910265" />
     <state x="549" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587666003930">
       <screen x="0" y="0" width="1536" height="824" />
