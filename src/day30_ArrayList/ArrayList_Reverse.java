@@ -19,8 +19,8 @@ public class ArrayList_Reverse {
         ArrayList<Integer> reversedList = new ArrayList<>();
 
         for (int i = list.size()-1; i >= 0; i--){
-            int eachNum = list.get(i); // unboxing
-            reversedList.add(eachNum);
+          //  int eachNum = list.get(i); // unboxing
+            reversedList.add(list.get(i));
          //   System.out.print(eachNum+" ");
         }
         System.out.println(reversedList);
