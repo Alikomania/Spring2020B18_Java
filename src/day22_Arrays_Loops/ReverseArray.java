@@ -10,6 +10,7 @@ public class ReverseArray {
             int eachNum = arr[i];
             System.out.println(eachNum);
         }
+
         System.out.println("======================================");
 
         int[] revArr = new int[arr.length]; // {0,0,0,0,0}
