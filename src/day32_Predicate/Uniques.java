@@ -28,7 +28,25 @@ public class Uniques { /// LOOK AT DAY30 Uniques ///
       }
       System.out.println(result);
 
+      System.out.println("=============================================");
+
+      Character[] chars1 = {'A', 'A', 'B', 'B', 'C', 'D', 'D', 'E'};
+
+      ArrayList<Character> charList1 = new ArrayList<>(Arrays.asList(chars1));
+      System.out.println(charList1);
+
+      ArrayList<Character> result1 = new ArrayList<>();
+
+      for (Character each : charList1){
+          int count1 = 0;
+          for (Character each1 : charList1) if (each == each1) count1++;
+          if (count1 == 1) result1.add(each);
+      }
+      System.out.println(result1);
+
 
 
   }
-}
+
+  }
+

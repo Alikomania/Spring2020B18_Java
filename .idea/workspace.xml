@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cdc5c50-d28a-4e06-8469-92b7e7f386fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BedTimeTasks/WarmUp_05_01_2020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_Saturday/day1_StringsAndLoops/ExtraEndClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours_Saturday/day1_StringsAndLoops/MakeOutWordClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day32_Predicate/Quiz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day32_Predicate/Uniques.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day32_Predicate/Uniques.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day32_Predicate/Uniques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day32_Predicate/Uniques.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,20 +49,7 @@
       <recent name="Resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Quiz">
-    <configuration name="CollectionsMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Predicate.CollectionsMethod" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day32_Predicate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Duplicates">
     <configuration name="Duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day32_Predicate.Duplicates" />
       <module name="Spring2020B18_Java" />
@@ -83,8 +76,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Predicate.Quiz" />
+    <configuration name="MoveZero3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Predicate.MoveZero3" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day32_Predicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Predicate2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Predicate.Predicate2" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Quiz" />
-        <item itemvalue="Application.Lambda_Expressions" />
-        <item itemvalue="Application.Uniques" />
-        <item itemvalue="Application.CollectionsMethod" />
         <item itemvalue="Application.Duplicates" />
+        <item itemvalue="Application.Uniques" />
+        <item itemvalue="Application.MoveZero3" />
+        <item itemvalue="Application.Predicate2" />
+        <item itemvalue="Application.Lambda_Expressions" />
       </list>
     </recent_temporary>
   </component>
@@ -217,35 +223,35 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="351" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587533631230" />
-    <state x="147" y="65" key="DiffContextDialog" timestamp="1587533484278">
+    <state x="147" y="65" width="1228" height="687" key="DiffContextDialog" timestamp="1588563240486">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1587533484278" />
+    <state x="147" y="65" width="1228" height="687" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1588563240486" />
     <state x="499" y="114" key="FileChooserDialogImpl" timestamp="1587669726905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="114" key="FileChooserDialogImpl/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1587669726905" />
     <state x="499" y="114" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587533028097" />
-    <state width="1481" height="276" key="GridCell.Tab.0.bottom" timestamp="1588364647081">
+    <state width="1481" height="9" key="GridCell.Tab.0.bottom" timestamp="1588567817559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="276" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588364647081" />
-    <state width="1481" height="23" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588310454110" />
-    <state width="1481" height="276" key="GridCell.Tab.0.center" timestamp="1588364647081">
+    <state width="1481" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588454274931" />
+    <state width="1481" height="9" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588567817559" />
+    <state width="1481" height="9" key="GridCell.Tab.0.center" timestamp="1588567817559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="276" key="GridCell.Tab.0.center/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588364647081" />
-    <state width="1481" height="23" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588310454110" />
-    <state width="1481" height="276" key="GridCell.Tab.0.left" timestamp="1588364647081">
+    <state width="1481" height="217" key="GridCell.Tab.0.center/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588454274931" />
+    <state width="1481" height="9" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588567817559" />
+    <state width="1481" height="9" key="GridCell.Tab.0.left" timestamp="1588567817559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="276" key="GridCell.Tab.0.left/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588364647081" />
-    <state width="1481" height="23" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588310454110" />
-    <state width="1481" height="276" key="GridCell.Tab.0.right" timestamp="1588364647081">
+    <state width="1481" height="217" key="GridCell.Tab.0.left/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588454274931" />
+    <state width="1481" height="9" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588567817559" />
+    <state width="1481" height="9" key="GridCell.Tab.0.right" timestamp="1588567817559">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="276" key="GridCell.Tab.0.right/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588364647081" />
-    <state width="1481" height="23" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588310454110" />
+    <state width="1481" height="217" key="GridCell.Tab.0.right/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588454274931" />
+    <state width="1481" height="9" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588567817559" />
     <state width="1481" height="246" key="GridCell.Tab.1.bottom" timestamp="1587011100577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -266,6 +272,10 @@
     </state>
     <state width="1481" height="246" key="GridCell.Tab.1.right/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1586282543615" />
     <state width="1481" height="246" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587011100577" />
+    <state x="377" y="49" key="NewModule_or_Project.wizard" timestamp="1588453179614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="377" y="49" key="NewModule_or_Project.wizard/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588453179614" />
     <state x="212" y="0" width="1139" height="824" key="SettingsEditor" timestamp="1583777847066">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -278,10 +288,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="261" y="84" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587533664470" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588361421930">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1588441010130">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588361421930" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588441010130" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588292048038" />
     <state x="549" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587666003930">
       <screen x="0" y="0" width="1536" height="824" />
