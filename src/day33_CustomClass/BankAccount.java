@@ -10,7 +10,7 @@ practice task:
     requierements:
     1. AccountHolder, 2. AccountNumber, 3. Balance
 		Actions: showBalance, deposit, withdraw
-		requiremnts:
+		requirements:
 			1. user should be able to deposit money into their account
 			2. user should be able to withdraw money from their account
 					2.1 if the withdrawing account is greater than a
