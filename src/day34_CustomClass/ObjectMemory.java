@@ -22,10 +22,10 @@ public class ObjectMemory {
         String str1 = new String("cybertek");
         String str2 = str1;
 
-        str1 = str1.toUpperCase(); //"Cybertek"
+        str1 = str1.toUpperCase(); //"CYBERTEK"
 
-        System.out.println(str1);
-        System.out.println(str2);
+        System.out.println(str1); // CYBERTEK
+        System.out.println(str2); // cybertek
 
         int a = 300;
 
