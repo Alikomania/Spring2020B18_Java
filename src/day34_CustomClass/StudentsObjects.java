@@ -6,8 +6,13 @@ import java.util.Arrays;
 public class StudentsObjects {
 
     public static void main(String[] args) {
+
+
+
         Student student1 = new Student();
         student1.setStudentInfo("Adam", "Englad", 34,3.5, 'M',true);
+
+
 
         Student student2 = new Student();
         student2.setStudentInfo("Mike","German",30,3.0,'M',false);
