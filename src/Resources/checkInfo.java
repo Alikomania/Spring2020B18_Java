@@ -2,7 +2,7 @@ package Resources;
 
 import day39_AccessModifiers.PersonalInfo;
 
-public class CheckInfo {
+public class checkInfo {
 
     public static void main(String[] args) {
 
