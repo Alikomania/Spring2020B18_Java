@@ -1,4 +1,4 @@
-package day41_Inheritance.Test02;
+package day41_Inheritance.Task02;
 
 public class AccountObjects {
 

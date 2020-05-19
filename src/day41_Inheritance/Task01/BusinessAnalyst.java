@@ -1,4 +1,4 @@
-package day41_Inheritance.Test01;
+package day41_Inheritance.Task01;
 /*
  create subclass of employee name it businessAnalyst
      		variables: salary, name, id, jobTitle, gender

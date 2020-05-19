@@ -1,4 +1,4 @@
-package day41_Inheritance.Test01;
+package day41_Inheritance.Task01;
 /*
 create sub class of employee name it Tester:
 			variables: salary, name, id, jobTitle, gender

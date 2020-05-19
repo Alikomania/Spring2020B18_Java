@@ -1,4 +1,4 @@
-package day41_Inheritance.Test02;
+package day41_Inheritance.Task02;
 /*
 create sub class of BankAccount and name it checkingAccount
 			variables: accountNumber, accountHolder, balance

@@ -1,4 +1,4 @@
-package day41_Inheritance.Test01;
+package day41_Inheritance.Task01;
 /*
 creata  class called Employee:
 			variables: salary, name, id, jobTitle, gender
