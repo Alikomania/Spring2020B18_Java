@@ -20,8 +20,12 @@ public class Person {
     public int age;
     public char gender;
 
-    public void eat(){
-        System.out.println(name+" eat the pizza");
+    public void eat(String food){
+        System.out.println(name+" is eating "+food);
+    }
+
+    public void drink(String drink){
+        System.out.println(name+" is drinking "+drink);
     }
 
     public void walk(){

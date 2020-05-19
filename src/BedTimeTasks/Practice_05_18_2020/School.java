@@ -8,7 +8,7 @@ create a class called company:
     use regular for loop to print out each employee' name and employeeID
 
  */
-public class Company {
+public class School { // School Has A student
 
     public static void main(String[] args) {
 
@@ -21,9 +21,11 @@ public class Company {
         Employee emp3 = new Employee();
         emp3.setEmployeeInfo("Elif", 29, 'F', 120000, 4325, "Developer");
 
-        Employee[] arr = {emp1, emp2, emp3};
+        ArrayList<Employee> employeeList = new ArrayList<>(Arrays.asList(emp1, emp2, emp3));
 
-        for (Employee each : arr){
+    //    Employee[] arr = {emp1, emp2, emp3};
+
+        for (Employee each : employeeList){
             System.out.println(each.name+", "+each.employeeID);
         }
 

@@ -14,9 +14,7 @@ public class Employee extends Person {
     }
 
     public void setEmployeeInfo(String name, int age, char gender, double salary, long employeeID, String jobTitle){
-        this.name = name;
-        this.age = age;
-        this.gender = gender;
+        setPersonInfo(name, age, gender);
         this.salary = salary;
         this.employeeID = employeeID;
         this.jobTitle = jobTitle;

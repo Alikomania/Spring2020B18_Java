@@ -7,9 +7,10 @@ create a subclass of Person called Student
 public class Student extends Person {
     public long studentID;
     public String clazz;
+    public static String schoolName = "Cybertek";
 
     public void attendClass(){
-        System.out.println(name+" is attending class");
+        System.out.println(name+" is attending "+clazz);
     }
 
     public void code(){
@@ -17,15 +18,13 @@ public class Student extends Person {
     }
 
     public void setStudentInfo(String name, int age, char gender, long studentID, String clazz){
-        this.name = name;
-        this.age = age;
-        this.gender = gender;
+        setPersonInfo(name, age, gender);
         this.studentID = studentID;
         this.clazz = clazz;
     }
 
     public String toString(){
-        return name+", "+age+", "+gender+", "+studentID+", "+clazz;
+        return name+", "+age+", "+gender+", "+studentID+", "+clazz+", school: "+schoolName;
     }
 
 
