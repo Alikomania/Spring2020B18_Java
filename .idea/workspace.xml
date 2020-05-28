@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cdc5c50-d28a-4e06-8469-92b7e7f386fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +47,13 @@
       <recent name="day38_Constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.House">
-    <configuration name="Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.Constructor" />
+  <component name="RunManager" selected="Application.ExceptionHandling">
+    <configuration name="CheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day44_Exceptions.CheckedException" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day42_Inheritance.*" />
+          <option name="PATTERN" value="day44_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Constructor2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.Constructor2" />
+    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day44_Exceptions.ExceptionHandling" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day42_Inheritance.*" />
+          <option name="PATTERN" value="day44_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,38 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="House" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_05_20_2020.House" />
+    <configuration name="Unchecked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day44_Exceptions.Unchecked" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OfficeHours.Practice_05_20_2020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InheritanceReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.InheritanceReview" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day42_Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SuperKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.SuperKeyword" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day42_Inheritance.*" />
+          <option name="PATTERN" value="day44_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,13 +100,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="try_catchBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day44_Exceptions.try_catchBlocks" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day44_Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="try_catchBlocks2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day44_Exceptions.try_catchBlocks2" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day44_Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.House" />
-        <item itemvalue="Application.InheritanceReview" />
-        <item itemvalue="Application.SuperKeyword" />
-        <item itemvalue="Application.Constructor2" />
-        <item itemvalue="Application.Constructor" />
+        <item itemvalue="Application.ExceptionHandling" />
+        <item itemvalue="Application.try_catchBlocks2" />
+        <item itemvalue="Application.try_catchBlocks" />
+        <item itemvalue="Application.CheckedException" />
+        <item itemvalue="Application.Unchecked" />
       </list>
     </recent_temporary>
   </component>
@@ -247,25 +246,25 @@
     </state>
     <state x="499" y="114" key="FileChooserDialogImpl/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1587669726905" />
     <state x="499" y="114" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587533028097" />
-    <state width="1481" height="366" key="GridCell.Tab.0.bottom" timestamp="1590008569466">
+    <state width="1481" height="356" key="GridCell.Tab.0.bottom" timestamp="1590684861775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="366" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1590008569466" />
+    <state width="1481" height="356" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1590684861775" />
     <state width="1481" height="66" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589866326314" />
-    <state width="1481" height="366" key="GridCell.Tab.0.center" timestamp="1590008569466">
+    <state width="1481" height="356" key="GridCell.Tab.0.center" timestamp="1590684861775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="366" key="GridCell.Tab.0.center/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1590008569466" />
+    <state width="1481" height="356" key="GridCell.Tab.0.center/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1590684861775" />
     <state width="1481" height="66" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589866326314" />
-    <state width="1481" height="366" key="GridCell.Tab.0.left" timestamp="1590008569466">
+    <state width="1481" height="356" key="GridCell.Tab.0.left" timestamp="1590684861775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="366" key="GridCell.Tab.0.left/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1590008569466" />
+    <state width="1481" height="356" key="GridCell.Tab.0.left/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1590684861775" />
     <state width="1481" height="66" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589866326314" />
-    <state width="1481" height="366" key="GridCell.Tab.0.right" timestamp="1590008569466">
+    <state width="1481" height="356" key="GridCell.Tab.0.right" timestamp="1590684861775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="366" key="GridCell.Tab.0.right/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1590008569466" />
+    <state width="1481" height="356" key="GridCell.Tab.0.right/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1590684861775" />
     <state width="1481" height="66" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589866326314" />
     <state width="1481" height="246" key="GridCell.Tab.1.bottom" timestamp="1587011100577">
       <screen x="0" y="0" width="1536" height="824" />
@@ -304,11 +303,11 @@
     </state>
     <state x="261" y="84" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588709630990" />
     <state x="261" y="84" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587533664470" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590116419807">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590674441755">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1590116419807" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589953342336" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1590674441755" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590542271424" />
     <state x="549" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587666003930">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
