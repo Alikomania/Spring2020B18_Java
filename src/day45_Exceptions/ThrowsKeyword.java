@@ -19,23 +19,25 @@ public class ThrowsKeyword {
         System.out.println("Cybertek");
         sleep1();
         System.out.println("Java");
-        sleep2();
+        sleep2(); // We need the 'throws' exception. otherwise it gives us compile error
     }
 
     public static void sleep3() throws Exception { // we can use grandparents too
 
         Thread.sleep(3000);
 
-    } // Disadvantage: The caller have to handling ('throws' keyword) again by itself, every time
+    } // Disadvantage: The caller (method) have to handling ('throws' keyword) again by itself, every time
 
     public static void method1() throws InterruptedException {
         String[] arr = {"A"};
-        main(arr); // Even main method whoever calls that method that must be deal with handling 'throws' keyword
+        main(arr); // Even main method whoever calls that method MUST be deal with handling 'throws' keyword
     }
 
     /*
     public static void method2(){
-        method1(); ==> compile error
+        method1(); ==> compile error. because CANNOT call outside the method.
+                        if we want call we should throws keyword every method OR
+                        we can use 'try & catch'
     }
       */
 
