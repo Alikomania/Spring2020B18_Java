@@ -16,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -48,7 +48,20 @@
       <recent name="day38_Constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PhoneObjects">
+  <component name="RunManager" selected="Application.defaultMethod">
+    <configuration name="N" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day48_Abstraction.N" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day48_Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PhoneObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day48_Abstraction.PhoneObjects" />
       <module name="Spring2020B18_Java" />
@@ -75,25 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day45_Exceptions.ThrowKeyword" />
+    <configuration name="defaultMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day48_Abstraction.defaultMethod" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day45_Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Yeni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day45_Exceptions.Yeni" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day45_Exceptions.*" />
+          <option name="PATTERN" value="day48_Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.defaultMethod" />
+        <item itemvalue="Application.N" />
         <item itemvalue="Application.PhoneObjects" />
         <item itemvalue="Application.driverObjects" />
         <item itemvalue="Application.ShapeObjects" />
-        <item itemvalue="Application.Yeni" />
-        <item itemvalue="Application.ThrowKeyword" />
       </list>
     </recent_temporary>
   </component>
@@ -225,10 +225,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584055524501" />
-    <state x="530" y="33" key="#com.intellij.ide.util.MemberChooser" timestamp="1591633702475">
+    <state x="530" y="33" key="#com.intellij.ide.util.MemberChooser" timestamp="1591645951475">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="530" y="33" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591633702475" />
+    <state x="530" y="33" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591645951475" />
     <state x="436" y="104" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589299038319">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -247,25 +247,25 @@
     </state>
     <state x="499" y="114" key="FileChooserDialogImpl/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1587669726905" />
     <state x="499" y="114" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587533028097" />
-    <state width="1481" height="218" key="GridCell.Tab.0.bottom" timestamp="1591630022839">
+    <state width="1481" height="218" key="GridCell.Tab.0.bottom" timestamp="1591646111344">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591630022839" />
+    <state width="1481" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591646111344" />
     <state width="1481" height="3" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590729328541" />
-    <state width="1481" height="218" key="GridCell.Tab.0.center" timestamp="1591630022838">
+    <state width="1481" height="218" key="GridCell.Tab.0.center" timestamp="1591646111344">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="218" key="GridCell.Tab.0.center/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591630022838" />
+    <state width="1481" height="218" key="GridCell.Tab.0.center/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591646111344" />
     <state width="1481" height="3" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590729328541" />
-    <state width="1481" height="218" key="GridCell.Tab.0.left" timestamp="1591630022838">
+    <state width="1481" height="218" key="GridCell.Tab.0.left" timestamp="1591646111344">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="218" key="GridCell.Tab.0.left/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591630022838" />
+    <state width="1481" height="218" key="GridCell.Tab.0.left/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591646111344" />
     <state width="1481" height="3" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590729328541" />
-    <state width="1481" height="218" key="GridCell.Tab.0.right" timestamp="1591630022838">
+    <state width="1481" height="218" key="GridCell.Tab.0.right" timestamp="1591646111344">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="218" key="GridCell.Tab.0.right/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591630022838" />
+    <state width="1481" height="218" key="GridCell.Tab.0.right/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591646111344" />
     <state width="1481" height="3" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590729328541" />
     <state width="1481" height="246" key="GridCell.Tab.1.bottom" timestamp="1587011100577">
       <screen x="0" y="0" width="1536" height="824" />
