@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cdc5c50-d28a-4e06-8469-92b7e7f386fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FlipGrid/FlipGrid_5_String_Immutable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day48_Abstraction/extends_Implements.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day48_Abstraction/extends_Implements.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -41,6 +43,12 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="day48_Abstraction" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="FlipGrid" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Resources" />
     </key>
@@ -48,13 +56,13 @@
       <recent name="day38_Constructors" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.defaultMethod">
-    <configuration name="N" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day48_Abstraction.N" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="AnimalObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day50_Polymorphism.AnimalObjects" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day48_Abstraction.*" />
+          <option name="PATTERN" value="day50_Polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day48_Abstraction.PhoneObjects" />
+    <configuration name="FlipGrid_5_String_Immutable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlipGrid.FlipGrid_5_String_Immutable" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day48_Abstraction.*" />
+          <option name="PATTERN" value="FlipGrid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day46_final_abstract.ShapeObjects" />
+    <configuration name="PhoneObjects (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day49_Polymorphisim.PhoneObjects" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day46_final_abstract.*" />
+          <option name="PATTERN" value="day49_Polymorphisim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="defaultMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day48_Abstraction.defaultMethod" />
+    <configuration name="StringLiterals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_StringClass.StringLiterals" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day48_Abstraction.*" />
+          <option name="PATTERN" value="day13_StringClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="driverObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day47_Abstraction.driverObjects" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day50_Polymorphism.Test" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day47_Abstraction.*" />
+          <option name="PATTERN" value="day50_Polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.defaultMethod" />
-        <item itemvalue="Application.N" />
-        <item itemvalue="Application.PhoneObjects" />
-        <item itemvalue="Application.driverObjects" />
-        <item itemvalue="Application.ShapeObjects" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.AnimalObjects" />
+        <item itemvalue="Application.FlipGrid_5_String_Immutable" />
+        <item itemvalue="Application.StringLiterals" />
+        <item itemvalue="Application.PhoneObjects (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -225,10 +233,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584055524501" />
-    <state x="530" y="33" key="#com.intellij.ide.util.MemberChooser" timestamp="1591645951475">
+    <state x="530" y="33" key="#com.intellij.ide.util.MemberChooser" timestamp="1592245468704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="530" y="33" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591645951475" />
+    <state x="530" y="33" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1592245468704" />
+    <state x="436" y="142" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1592164815316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="142" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1592164815316" />
+    <state x="534" y="277" width="467" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592164816762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="534" y="277" width="467" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1592164816762" />
     <state x="436" y="104" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589299038319">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -247,26 +263,26 @@
     </state>
     <state x="499" y="114" key="FileChooserDialogImpl/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1587669726905" />
     <state x="499" y="114" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587533028097" />
-    <state width="1481" height="218" key="GridCell.Tab.0.bottom" timestamp="1591646111344">
+    <state width="1481" height="234" key="GridCell.Tab.0.bottom" timestamp="1592246509635">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591646111344" />
-    <state width="1481" height="3" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590729328541" />
-    <state width="1481" height="218" key="GridCell.Tab.0.center" timestamp="1591646111344">
+    <state width="1481" height="234" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1592246509635" />
+    <state width="1481" height="234" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592173248098" />
+    <state width="1481" height="234" key="GridCell.Tab.0.center" timestamp="1592246509634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="218" key="GridCell.Tab.0.center/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591646111344" />
-    <state width="1481" height="3" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590729328541" />
-    <state width="1481" height="218" key="GridCell.Tab.0.left" timestamp="1591646111344">
+    <state width="1481" height="234" key="GridCell.Tab.0.center/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1592246509634" />
+    <state width="1481" height="234" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592173248098" />
+    <state width="1481" height="234" key="GridCell.Tab.0.left" timestamp="1592246509633">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="218" key="GridCell.Tab.0.left/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591646111344" />
-    <state width="1481" height="3" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590729328541" />
-    <state width="1481" height="218" key="GridCell.Tab.0.right" timestamp="1591646111344">
+    <state width="1481" height="234" key="GridCell.Tab.0.left/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1592246509633" />
+    <state width="1481" height="234" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592173248098" />
+    <state width="1481" height="234" key="GridCell.Tab.0.right" timestamp="1592246509635">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1481" height="218" key="GridCell.Tab.0.right/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591646111344" />
-    <state width="1481" height="3" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590729328541" />
+    <state width="1481" height="234" key="GridCell.Tab.0.right/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1592246509635" />
+    <state width="1481" height="234" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592173248098" />
     <state width="1481" height="246" key="GridCell.Tab.1.bottom" timestamp="1587011100577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -304,10 +320,10 @@
     </state>
     <state x="261" y="84" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588709630990" />
     <state x="261" y="84" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587533664470" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591368348594">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1591970353113">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591368348594" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1591970353113" />
     <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591067618003" />
     <state x="549" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587666003930">
       <screen x="0" y="0" width="1536" height="824" />
@@ -330,10 +346,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="451" y="0" key="refactoring.ChangeSignatureDialog/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1590767000197" />
-    <state x="341" y="183" key="run.anything.popup" timestamp="1588624904443">
+    <state x="341" y="183" key="run.anything.popup" timestamp="1592248804049">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="341" y="183" key="run.anything.popup/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1588624904443" />
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824/1920.8.1280.728@0.0.1536.824" timestamp="1592248804049" />
     <state x="383" y="0" width="840" height="822" key="search.everywhere.popup" timestamp="1590807292093">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
