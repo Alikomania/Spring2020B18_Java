@@ -31,7 +31,7 @@ public class sets {
 
         System.out.println("==========================");
         HashSet<String> hashSet = new HashSet<>();
-        hashSet.add(null);
+    //    hashSet.add(null);
 
         System.out.println(hashSet);
 

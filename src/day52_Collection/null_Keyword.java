@@ -22,7 +22,9 @@ public class null_Keyword {
         list1.add(null);
 
         System.out.println(list1);
+
         System.out.println("==============================");
+
         String number = "123";
 
         int num1 = Integer.parseInt(number);
@@ -30,6 +32,7 @@ public class null_Keyword {
         System.out.println(num1);
 
         System.out.println("===============================");
+
         String[] arr = {null, "Cybertek", "ABC"};
         arr[2].toUpperCase();
 

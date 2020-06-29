@@ -18,6 +18,8 @@ public class Q {
         System.out.println(str);
 
 
+        System.out.println("*************************************************");
+
         String str1 = q.peek();
         System.out.println(str1);
 
